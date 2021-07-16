@@ -1,6 +1,6 @@
 中文简体、繁体转换工具, 支持浏览器端和 Node 端.
 
-中文簡體、繁體転換工具, 支持瀏覧器端和 Node 端.
+> 中文簡體、繁體転換工具, 支持瀏覧器端和 Node 端.
 
 ## 如何使用
 
@@ -48,7 +48,7 @@ console.log(toSimplified('中華人民共和國')); // 输出: 中华人民共�
 ```
 
 ## 声明
-词库来自[funNLP](https://github.com/fighting41love/funNLP/blob/master/data/%E7%B9%81%E7%AE%80%E4%BD%93%E8%BD%AC%E6%8D%A2%E8%AF%8D%E5%BA%93/fanjian_suoyin.txt)
+词库来自 [funNLP](https://github.com/fighting41love/funNLP/blob/master/data/%E7%B9%81%E7%AE%80%E4%BD%93%E8%BD%AC%E6%8D%A2%E8%AF%8D%E5%BA%93/fanjian_suoyin.txt)
 
 ## License
 [MIT](./LICENSE)
